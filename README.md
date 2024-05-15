@@ -29,7 +29,7 @@ This project focuses on the detection and localization of illegal waste dumpsite
 </ul>
 
 
-> <img src='/content/gdrive/MyDrive/waste-project/data1/detect_imag.png' alt='?' style='width:900px'/> Code and Markdown cells can be executed using the **Shift + Enter** keyboard shortcut.  Markdown cells can be edited by double-clicking the cell to enter edit mode.
+> <img src='/content/gdrive/MyDrive/waste-project/data1/detect_imag.png' alt='?' style='width:900px'/> 
 
 ###  Data Scope
 
