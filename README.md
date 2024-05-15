@@ -38,6 +38,6 @@ By combining these two datasets, I enhance the robustness of our model, ensuring
 
 The model produced great results in detected dumpsites across multiple Geographic regions
 
-![alt text] (https://github.com/djlaqua/Dumpsite-Detector/blob/main/data1/detect_imag.png?raw=true)
+> <img src='https://github.com/djlaqua/Dumpsite-Detector/blob/main/data1/detect_imag.png' alt='?' style='width:900px'/>
 
 Trained models will be pushed later on
